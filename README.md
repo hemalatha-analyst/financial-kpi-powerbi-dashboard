@@ -63,7 +63,12 @@ Highlighted most profitable product categories
 Compared actual performance against budget targets
 Analyzed profit margin trends over time
 Evaluated performance of different sales channels
-📷 Dashboard Preview
+
+## 📊 Financial KPI Dashboard Preview
+
+<p align="center">
+  <img src="./Financial_KPI_Overview.png" width="900"/>
+</p>
 
 
 🧠 Business Value
@@ -76,20 +81,6 @@ Optimize product and regional strategy
 Track business performance in real time
 Align operations with financial goals
 
-
-📁 Repository Structure
-Financial-KPI-Dashboard/
-│
-├── data/
-│   └── financial_dataset.xlsx
-│
-├── powerbi/
-│   └── financial_dashboard.pbix
-│
-├── images/
-│   └── dashboard_screenshot.png
-│
-├── README.md
 📌 Conclusion
 
 This project demonstrates practical financial analytics using Power BI, showcasing skills in data modeling, DAX, visualization, and business intelligence reporting. It is designed as a job-ready portfolio project for roles in Finance, Business Analysis, and Data Analytics.
